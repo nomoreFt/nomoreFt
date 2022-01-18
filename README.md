@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning ...
+  -Language
+    #Modern Java(Stream, Lamda...)
+    #Go
+  
+  -FlameWork
+    #Spring Boot
+  
+  -CI/CD
+    #Docker
+    #K8s
+
 <!--
 **nomoreFt/nomoreFt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
