@@ -7,6 +7,7 @@
  <img src="https://img.shields.io/badge/SpringBoot-47A248?style=flat&logo=Spring Boot&logoColor=#1EDDFF"/>
  <img src="https://img.shields.io/badge/Docker-00599C?style=flat&logo=Docker&logoColor=#1EDDFF"/>
  <img src="https://img.shields.io/badge/Kubernetes-00599C?style=flat&logo=Kubernetes&logoColor=8B4513"/>
+ <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp 
   
 </p>
 <!--
