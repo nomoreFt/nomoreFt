@@ -16,7 +16,7 @@
 <br>
 <br>
 
-![nomoreFt's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nomoreFt&show_icons=true&hide_border=false&title_color=004386&icon_color=004386&layout=compact)
+![nomoreFt's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nomoreFt&show_icons=true&hide_border=false&title_color=004386&icon_color=004386&layout=compact)  
 ![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hy2wo2) 
 <br>
 <br>
