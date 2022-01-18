@@ -1,4 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=nomoreFt%20&fontSize=90)
+<h3 align="center"><b>🌱 I’m currently learning ...</b></h3>
+<p align="center">
+#알고리즘 #모던자바(Stream,Lamda 등) #Go 서버 띄우기, API 생성 #Docker, K8s, Jenkins 이용하는 CI/CD
+</p>
+
+
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
 <p align="center">
