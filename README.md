@@ -1,24 +1,14 @@
-### Hi there 👋
-
-- 🌱 I’m currently learning ...
+<h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
+</br>
+<p align="center">
+ <img src="https://img.shields.io/badge/Go-00599C?style=flat&logo=Go&logoColor=1EDDFF"/>
+ <img src="https://img.shields.io/badge/Java-black?style=flat&logo=Java&logoColor=FF0000"/>
+ <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
+ <img src="https://img.shields.io/badge/SpringBoot-47A248?style=flat&logo=Spring Boot&logoColor=#1EDDFF"/>
+ <img src="https://img.shields.io/badge/Docker-00599C?style=flat&logo=Docker&logoColor=#1EDDFF"/>
+ <img src="https://img.shields.io/badge/Kubernetes-00599C?style=flat&logo=Kubernetes&logoColor=8B4513"/>
   
-  -Language
-    
-      #Modern Java(Stream, Lamda...)
-
-      #Go
-  
-  -FrameWork
-
-      #Spring Boot
-
-  -CI/CD
-       
-      #Docker
-      
-      #K8s
-
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nomoreFt&show_icons=true&theme=radical)
+</p>
 <!--
 **nomoreFt/nomoreFt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
