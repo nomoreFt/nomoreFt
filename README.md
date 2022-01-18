@@ -16,7 +16,9 @@
 <br>
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nomoreFt&show_icons=true&theme=radical)
+![nomoreFt's github stats](https://github-readme-stats.vercel.app/api?username=nomoreFt&show_icons=true)
+![nomoreFt's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nomoreFt&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)
+
 
 ![footer](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=30&section=header&text=&fontSize=90)
 
