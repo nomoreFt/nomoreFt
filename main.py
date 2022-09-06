@@ -54,12 +54,13 @@ Here are some ideas to get you started:
 
 for idx, feed in enumerate(RSS_FEED['entries']):
     if idx > MAX_POST:
+        markdown_text += "![footer](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=30&section=header&text=&fontSize=90)"
         break
     else:
         feed_date = feed['published_parsed']
         markdown_text += f"[{time.strftime('%Y/%m/%d', feed_date)} - {feed['title']}]({feed['link']}) <br/>\n"
        
-       markdown_text += f"![footer](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=30&section=header&text=&fontSize=90)"
+       
 
 f = open("README.md",mode="w", encoding="utf-8")
 f.write(markdown_text)
