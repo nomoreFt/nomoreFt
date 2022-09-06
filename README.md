@@ -1,12 +1,14 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=nomoreFt%20&fontSize=90)
-<h3 align="center"><b>🌱 I’m currently learning ...</b></h3>
-<p align="center">
+
+<h1>🌱 I’m currently learning ...</h1>
+
+<p>
 #알고리즘 #모던자바(Stream,Lamda 등) #Spring JPA #Go 서버 띄우기, API 생성 #Docker, K8s, Jenkins 이용하는 CI/CD
 </p>
-<h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
+<h3><b>🛠 Tech Stack 🛠</b></h3>
 </br>
-<p align="center">
+<p>
  <img src="https://img.shields.io/badge/Go-00599C?style=flat&logo=Go&logoColor=1EDDFF"/>
  <img src="https://img.shields.io/badge/Java-black?style=flat&logo=Java&logoColor=FF0000"/>
  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
