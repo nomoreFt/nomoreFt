@@ -9,12 +9,12 @@ markdown_text = """
 
 <h1>🌱 I’m currently learning ...</h1>
 
-<p>
+<p align="center">
 #알고리즘 #모던자바(Stream,Lamda 등) #Spring JPA #Go 서버 띄우기, API 생성 #Docker, K8s, Jenkins 이용하는 CI/CD
 </p>
-<h3><b>🛠 Tech Stack 🛠</b></h3>
+<h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
-<p>
+<p align="center">
  <img src="https://img.shields.io/badge/Go-00599C?style=flat&logo=Go&logoColor=1EDDFF"/>
  <img src="https://img.shields.io/badge/Java-black?style=flat&logo=Java&logoColor=FF0000"/>
  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
