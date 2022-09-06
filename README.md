@@ -11,8 +11,6 @@
 
 <h1>🛠 Tech Stack ⚒️</h1>
 
-</br>
-
 <p align="center">
  <img src="https://img.shields.io/badge/Go-00599C?style=flat&logo=Go&logoColor=1EDDFF"/>
  <img src="https://img.shields.io/badge/Java-black?style=flat&logo=Java&logoColor=FF0000"/>
