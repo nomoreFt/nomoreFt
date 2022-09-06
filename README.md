@@ -1,13 +1,18 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=nomoreFt%20&fontSize=90)
 
-<h1>🌱 I’m currently learning ...</h1>
+<h1>🌱 I’m currently learning ... 🌳</h1>
 
 <p align="center">
 #알고리즘 #모던자바(Stream,Lamda 등) #Spring JPA #Go 서버 띄우기, API 생성 #Docker, K8s, Jenkins 이용하는 CI/CD
 </p>
-<h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
+
+<br>
+
+<h1>🛠 Tech Stack ⚒️</h1>
+
 </br>
+
 <p align="center">
  <img src="https://img.shields.io/badge/Go-00599C?style=flat&logo=Go&logoColor=1EDDFF"/>
  <img src="https://img.shields.io/badge/Java-black?style=flat&logo=Java&logoColor=FF0000"/>
@@ -21,6 +26,9 @@
 </p>
 <br>
 <br>
+
+<h1>✨ Status</h1>
+
 
 ㅤㅤ![nomoreFt's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nomoreFt&show_icons=true&hide_border=false&title_color=004386&icon_color=004386&layout=compact)ㅤㅤㅤㅤㅤㅤ
 ![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hy2wo2) 
