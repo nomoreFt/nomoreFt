@@ -25,13 +25,18 @@ markdown_text = """
 </p>
 <br>
 <br>
+
 ㅤㅤ![nomoreFt's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nomoreFt&show_icons=true&hide_border=false&title_color=004386&icon_color=004386&layout=compact)ㅤㅤㅤㅤㅤㅤ
 ![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hy2wo2) 
+
 <br>
 <br>
+
 ㅤㅤ![nomoreFt's github stats](https://github-readme-stats.vercel.app/api?username=nomoreFt&show_icons=true)
+
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FnomoreFt&count_bg=%231F0303&title_bg=%23BBB8C6&icon=exercism.svg&icon_color=%23000000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-![footer](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=30&section=header&text=&fontSize=90)
+
+
 <!--
 **nomoreFt/nomoreFt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -53,6 +58,8 @@ for idx, feed in enumerate(RSS_FEED['entries']):
     else:
         feed_date = feed['published_parsed']
         markdown_text += f"[{time.strftime('%Y/%m/%d', feed_date)} - {feed['title']}]({feed['link']}) <br/>\n"
+       
+       markdown_text += "![footer](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=30&section=header&text=&fontSize=90)"
 
 f = open("README.md",mode="w", encoding="utf-8")
 f.write(markdown_text)
