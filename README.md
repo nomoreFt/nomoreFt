@@ -26,9 +26,7 @@
 <br>
 <br>
 
-ㅤㅤ![nomoreFt's github stats](https://github-readme-stats.vercel.app/api?username=nomoreFt&show_icons=true)
-
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FnomoreFt&count_bg=%231F0303&title_bg=%23BBB8C6&icon=exercism.svg&icon_color=%23000000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+ㅤㅤ![nomoreFt's github stats](https://github-readme-stats.vercel.app/api?username=nomoreFt&show_icons=true)[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FnomoreFt&count_bg=%231F0303&title_bg=%23BBB8C6&icon=exercism.svg&icon_color=%23000000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 <!--
@@ -51,4 +49,4 @@ Here are some ideas to get you started:
 [2022/08/07 - [백준 2193 java 자바]이친수 (DP-이차원배열)](https://nomoreft.tistory.com/89) <br/>
 [2022/08/04 - [백준 11057 java 자바] 오르막 수 (DP-이차원배열)](https://nomoreft.tistory.com/88) <br/>
 [2022/08/04 - [백준 10844 java 자바] 쉬운 계단 수 (DP-이차원배열)](https://nomoreft.tistory.com/87) <br/>
-![footer](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=30&section=header&text=&fontSize=90)
+![footer](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=30&section=header&text=&fontSize=90) <br>
