@@ -53,6 +53,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[2022/10/01 - [백준 1062 java 자바]가르침 - 백트래킹,DFS](https://nomoreft.tistory.com/99) <br/>
 [2022/09/20 - [백준 2580 java 자바]스도쿠- 백트래킹,DFS](https://nomoreft.tistory.com/98) <br/>
 [2022/09/15 - [오류] Filename too long in Git for Windows](https://nomoreft.tistory.com/97) <br/>
 [2022/09/14 - [백준 9663 java 자바]N-Queen - 백트래킹](https://nomoreft.tistory.com/96) <br/>
@@ -60,5 +61,4 @@ Here are some ideas to get you started:
 [2022/08/31 - 동시성 문제 해결(ThreadLocal)](https://nomoreft.tistory.com/93) <br/>
 [2022/08/25 - [백준 11053 java 자바]가장 긴 증가하는 부분 수열 (DP)](https://nomoreft.tistory.com/92) <br/>
 [2022/08/22 - [스프링 Security] SpringBoot + JWT 인증 기본 설정](https://nomoreft.tistory.com/91) <br/>
-[2022/08/11 - [백준 9465 java 자바]스티커 (DP- 타일 붙이기 Style)](https://nomoreft.tistory.com/90) <br/>
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FnomoreFt&count_bg=%231F0303&title_bg=%23BBB8C6&icon=exercism.svg&icon_color=%23000000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)<br>![footer](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=30&section=header&text=&fontSize=90) <br><br><br>
