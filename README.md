@@ -53,3 +53,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[2022/10/18 - [백준 1644 java 자바]소수의 연속합 - 투포인터(부분합 효율성)](https://nomoreft.tistory.com/102) <br/>
+[2022/10/17 - [백준 1806 java 자바]부분합- 투포인터(부분합 효율성)](https://nomoreft.tistory.com/101) <br/>
+[2022/10/09 - [백준 2048 java 자바]2048 - DFS,구현](https://nomoreft.tistory.com/100) <br/>
+[2022/10/01 - [백준 1062 java 자바]가르침 - 백트래킹,DFS](https://nomoreft.tistory.com/99) <br/>
+[2022/09/20 - [백준 2580 java 자바]스도쿠- 백트래킹,DFS](https://nomoreft.tistory.com/98) <br/>
+[2022/09/15 - [오류] Filename too long in Git for Windows](https://nomoreft.tistory.com/97) <br/>
+[2022/09/14 - [백준 9663 java 자바]N-Queen - 백트래킹](https://nomoreft.tistory.com/96) <br/>
+[2022/09/02 - [오류] Vertica + SpringBoot 연동 오류 (HikariDataSource eror)](https://nomoreft.tistory.com/94) <br/>
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FnomoreFt&count_bg=%231F0303&title_bg=%23BBB8C6&icon=exercism.svg&icon_color=%23000000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)<br>![footer](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=30&section=header&text=&fontSize=90) <br><br><br>
