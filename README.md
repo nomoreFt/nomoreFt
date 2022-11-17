@@ -53,12 +53,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[2022/11/16 - [동적 프록시] ProxyFactory로 대상에 따른 기술에 구애받지 않고 Proxy 생성,적용하기](https://nomoreft.tistory.com/108) <br/>
+[2022/11/16 - [동적 프록시] JDK Dynamic Proxy/CGLIB로 인터페이스 or 클래스 기반의 프록시 객체를 쉽게 생성하는 방법](https://nomoreft.tistory.com/107) <br/>
+[2022/11/16 - [Reflection] 자바가 동적으로 Class, Method의 메타데이터를 획득하여 작동시키는 방법](https://nomoreft.tistory.com/106) <br/>
 [2022/11/05 - [디자인 패턴] 프록시 패턴(Proxy Pattern), 데코레이터 패턴(Decorator Pattern)](https://nomoreft.tistory.com/105) <br/>
 [2022/11/03 - [디자인 패턴] 템플릿 메서드 패턴, 전략 패턴](https://nomoreft.tistory.com/104) <br/>
 [2022/10/23 - [백준 2143 java 자바]두 배열의 합 - 투포인터(부분합, 이중배열)](https://nomoreft.tistory.com/103) <br/>
 [2022/10/18 - [백준 1644 java 자바]소수의 연속합 - 투포인터(부분합 효율성)](https://nomoreft.tistory.com/102) <br/>
 [2022/10/17 - [백준 1806 java 자바]부분합- 투포인터(부분합 효율성)](https://nomoreft.tistory.com/101) <br/>
-[2022/10/09 - [백준 2048 java 자바]2048 - DFS,구현](https://nomoreft.tistory.com/100) <br/>
-[2022/10/01 - [백준 1062 java 자바]가르침 - 백트래킹,DFS](https://nomoreft.tistory.com/99) <br/>
-[2022/09/20 - [백준 2580 java 자바]스도쿠- 백트래킹,DFS](https://nomoreft.tistory.com/98) <br/>
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FnomoreFt&count_bg=%231F0303&title_bg=%23BBB8C6&icon=exercism.svg&icon_color=%23000000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)<br>![footer](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=30&section=header&text=&fontSize=90) <br><br><br>
