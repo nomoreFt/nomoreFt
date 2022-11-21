@@ -53,8 +53,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[2022/11/16 - [동적 프록시] ProxyFactory로 대상에 따른 기술에 구애받지 않고 Proxy 생성,적용하기](https://nomoreft.tistory.com/108) <br/>
-[2022/11/16 - [동적 프록시] JDK Dynamic Proxy/CGLIB로 인터페이스 or 클래스 기반의 프록시 객체를 쉽게 생성하는 방법](https://nomoreft.tistory.com/107) <br/>
+[2022/11/16 - [Spring AOP] 2.ProxyFactory로 대상에 따른 기술에 구애받지 않고 Proxy 생성,적용하기 (Advisor, Advice, PointCut)](https://nomoreft.tistory.com/108) <br/>
+[2022/11/16 - [Spring AOP] 1.JDK Dynamic Proxy/CGLIB로 인터페이스 or 클래스 기반의 프록시 객체를 쉽게 생성하는 방법](https://nomoreft.tistory.com/107) <br/>
 [2022/11/16 - [Reflection] 자바가 동적으로 Class, Method의 메타데이터를 획득하여 작동시키는 방법](https://nomoreft.tistory.com/106) <br/>
 [2022/11/05 - [디자인 패턴] 프록시 패턴(Proxy Pattern), 데코레이터 패턴(Decorator Pattern)](https://nomoreft.tistory.com/105) <br/>
 [2022/11/03 - [디자인 패턴] 템플릿 메서드 패턴, 전략 패턴](https://nomoreft.tistory.com/104) <br/>
