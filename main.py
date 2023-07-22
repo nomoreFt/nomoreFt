@@ -10,7 +10,7 @@ markdown_text = """
 <h1>🌱 I’m currently learning ... 🌳</h1>
 
 <p align="center">
-#알고리즘 #모던자바(Stream,Lamda 등) #Spring JPA #Go 서버 띄우기, API 생성 #Docker, K8s, Jenkins 이용하는 CI/CD
+#알고리즘 #이펙티브 자바 #Axon CQRS #WebFlux #MultiModule #Spring Cloud #Heroku #AWS #Go #Docker, K8s, Jenkins 
 </p>
 
 <br>
