@@ -38,6 +38,7 @@
 
 <br>
 <br>
+<p align="right"> ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FnomoreFt&count_bg=%231F0303&title_bg=%23BBB8C6&icon=exercism.svg&icon_color=%23000000&title=hits&edge_flat=false) </p><br>
 
 <h1>🎇 Recent blog posts</h1>
 
@@ -61,4 +62,4 @@ Here are some ideas to get you started:
 [2023/07/14 - 인접 행렬](https://nomoreft.tistory.com/116) <br/>
 [2023/07/14 - 플로이드 와샬 알고리즘](https://nomoreft.tistory.com/115) <br/>
 [2023/07/14 - 벨만 포드 알고리즘](https://nomoreft.tistory.com/113) <br/>
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FnomoreFt&count_bg=%231F0303&title_bg=%23BBB8C6&icon=exercism.svg&icon_color=%23000000&title=hits&edge_flat=false) <br>![footer](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=30&section=header&text=&fontSize=90) <br><br><br>
+![footer](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=30&section=header&text=&fontSize=90) <br><br><br>
