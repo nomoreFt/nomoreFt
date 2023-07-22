@@ -4,7 +4,7 @@
 <h1>🌱 I’m currently learning ... 🌳</h1>
 
 <p align="center">
-#알고리즘 #모던자바(Stream,Lamda 등) #Spring JPA #Go 서버 띄우기, API 생성 #Docker, K8s, Jenkins 이용하는 CI/CD
+#알고리즘 #이펙티브 자바 #Axon CQRS #WebFlux #MultiModule #Spring Cloud #Heroku #AWS #Go #Docker, K8s, Jenkins 
 </p>
 
 <br>
@@ -53,12 +53,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[2023/01/11 - Software Architecture -1 SOLID 법칙 완전정복편](https://nomoreft.tistory.com/110) <br/>
-[2022/12/30 - java.lang.ClassNotFoundException: 특정 Db Driver 못찾는 오류](https://nomoreft.tistory.com/109) <br/>
-[2022/11/16 - [Spring AOP] 2.ProxyFactory로 대상에 따른 기술에 구애받지 않고 Proxy 생성,적용하기 (Advisor, Advice, PointCut)](https://nomoreft.tistory.com/108) <br/>
-[2022/11/16 - [Spring AOP] 1.JDK Dynamic Proxy/CGLIB로 인터페이스 or 클래스 기반의 프록시 객체를 쉽게 생성하는 방법](https://nomoreft.tistory.com/107) <br/>
-[2022/11/16 - [Reflection] 자바가 동적으로 Class, Method의 메타데이터를 획득하여 작동시키는 방법](https://nomoreft.tistory.com/106) <br/>
-[2022/11/05 - [디자인 패턴] 프록시 패턴(Proxy Pattern), 데코레이터 패턴(Decorator Pattern)](https://nomoreft.tistory.com/105) <br/>
-[2022/11/03 - [디자인 패턴] 템플릿 메서드 패턴, 전략 패턴](https://nomoreft.tistory.com/104) <br/>
-[2022/10/23 - [백준 2143 java 자바]두 배열의 합 - 투포인터(부분합, 이중배열)](https://nomoreft.tistory.com/103) <br/>
+[2023/07/20 - Java 9 ~ 17까지 도입할만한 유용한 기능과 예시](https://nomoreft.tistory.com/121) <br/>
+[2023/07/18 - 코틀린 vs 자바](https://nomoreft.tistory.com/120) <br/>
+[2023/07/18 - 알고리즘에서 비트마스크로 경우의 수 따지는 방법](https://nomoreft.tistory.com/119) <br/>
+[2023/07/14 - 경우의 수 따질 때 다음 순열 nextPermutation](https://nomoreft.tistory.com/118) <br/>
+[2023/07/14 - 인접 리스트](https://nomoreft.tistory.com/117) <br/>
+[2023/07/14 - 인접 행렬](https://nomoreft.tistory.com/116) <br/>
+[2023/07/14 - 플로이드 와샬 알고리즘](https://nomoreft.tistory.com/115) <br/>
+[2023/07/14 - 벨만 포드 알고리즘](https://nomoreft.tistory.com/113) <br/>
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FnomoreFt&count_bg=%231F0303&title_bg=%23BBB8C6&icon=exercism.svg&icon_color=%23000000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)<br>![footer](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=30&section=header&text=&fontSize=90) <br><br><br>
