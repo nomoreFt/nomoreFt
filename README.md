@@ -59,12 +59,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[2023/07/22 - [등차수열]  백준 등차수열 변환 - 17088](https://nomoreft.tistory.com/122) <br/>
 [2023/07/20 - Java 9 ~ 17까지 도입할만한 유용한 기능과 예시](https://nomoreft.tistory.com/121) <br/>
 [2023/07/18 - 코틀린 vs 자바](https://nomoreft.tistory.com/120) <br/>
 [2023/07/18 - 알고리즘에서 비트마스크로 경우의 수 따지는 방법](https://nomoreft.tistory.com/119) <br/>
-[2023/07/14 - 경우의 수 따질 때 다음 순열 nextPermutation](https://nomoreft.tistory.com/118) <br/>
+[2023/07/14 - Java에서 효율적인 경우의 수 따지기](https://nomoreft.tistory.com/118) <br/>
 [2023/07/14 - 인접 리스트](https://nomoreft.tistory.com/117) <br/>
 [2023/07/14 - 인접 행렬](https://nomoreft.tistory.com/116) <br/>
 [2023/07/14 - 플로이드 와샬 알고리즘](https://nomoreft.tistory.com/115) <br/>
-[2023/07/14 - 벨만 포드 알고리즘](https://nomoreft.tistory.com/113) <br/>
 ![footer](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=30&section=header&text=&fontSize=90) <br><br><br>
