@@ -1,6 +1,11 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=nomoreFt%20&fontSize=90)
 
+<br>
+<a href="https://github.com/devxb/gitanimals">
+    <img src = "https://render.gitanimals.org/farms/{nomoreFt}"/>
+</a>
+
 <h1>🌱 I’m currently learning ... 🌳</h1>
 
 <p align="center">
