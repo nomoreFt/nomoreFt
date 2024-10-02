@@ -49,6 +49,12 @@
 
 <br>
 
+<h1>🛠 My Contributions 🛠</h1>
+
+- [Spring Framework - PR #33625]([https://github.com/spring-projects/spring-framework/pull/12345](https://github.com/spring-projects/spring-framework/pull/33625)) - Replace hardcoded "null" with NULL_STRING constant in ObjectUtils.nullSafeConciseToString()
+
+<br><br>
+
 <h1>🎇 Recent blog posts</h1>
 
 <!--
