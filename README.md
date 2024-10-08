@@ -9,7 +9,7 @@
 
 | 📚 **라이브러리**| ☁️ **Cloud & DevOps**| 🏛 **Software Architecture**| 🚀 **Languages**| 📚 **Books**|
 |-|-|-|-|-|
-| - Spring WebFlux<br>- Spring Cloud| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws,kubernetes,kafka&perline=3" /></a> | - DDD<br>- MultiModule<br>- Spring Cloud | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=go,kotlin&perline=2" /></a> | - [이펙티브 자바](https://product.kyobobook.co.kr/detail/S000001033066)<br>- [단위 테스트](https://product.kyobobook.co.kr/detail/S000001805070)<br>- [JVM 밑바닥까지 파헤치기](https://product.kyobobook.co.kr/detail/S000213057051) |
+| - Spring WebFlux<br>- Spring Cloud| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws,kubernetes,kafka&perline=3" /></a> | - DDD<br>- MultiModule<br> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=go,kotlin&perline=2" /></a> | - [이펙티브 자바](https://product.kyobobook.co.kr/detail/S000001033066)<br>- [단위 테스트](https://product.kyobobook.co.kr/detail/S000001805070)<br>- [JVM 밑바닥까지 파헤치기](https://product.kyobobook.co.kr/detail/S000213057051) |
 
 <h1>🛠 Tech Stack ⚒</h1>
 
@@ -30,7 +30,7 @@
 ### DevOps & Cloud
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,linux,githubactions,kubernetes&perline=5" />
+    <img src="https://skillicons.dev/icons?i=docker,linux,githubactions&perline=5" />
   </a>
 </p>
 
