@@ -46,7 +46,7 @@
 <h1>✨ Status</h1>
 
 ![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hy2wo2) 
-![nomoreFt's github stats](https://github-readme-stats.vercel.app/api?username=nomoreFt&show_icons=true)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nomoreFt&&theme=slateorange)
 
 <a href="https://github.com/devxb/gitanimals">
     <img src = "https://render.gitanimals.org/farms/{nomoreFt}" width="800" height="300"/>
