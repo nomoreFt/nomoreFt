@@ -9,20 +9,36 @@
 |-|-|-|-|-|
 | - Spring WebFlux<br>- Spring Cloud| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws,kubernetes,kafka&perline=3" /></a> | - DDD<br>- MultiModule<br>- Spring Cloud | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=go,kotlin&perline=2" /></a> | - [이펙티브 자바](https://product.kyobobook.co.kr/detail/S000001033066)<br>- [단위 테스트](https://product.kyobobook.co.kr/detail/S000001805070)<br>- [JVM 밑바닥까지 파헤치기](https://product.kyobobook.co.kr/detail/S000213057051) |
 
-<br>
 
-<h1>🛠 Tech Stack ⚒️</h1>
+<h1>🛠 Tech Stack ⚒</h1>
 
+### Languages
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,docker,hibernate,gradle&perline=13" />
+    <img src="https://skillicons.dev/icons?i=java,kotlin&perline=5" />
   </a>
 </p>
- 
-                   
+
+### Frameworks & Libraries
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=spring,hibernate,axon&perline=5" />
+  </a>
 </p>
-<br>
-<br>
+
+### DevOps & Cloud
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,linux,githubactions,kubernetes&perline=5" />
+  </a>
+</p>
+
+### Tools & Build
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=idea,gradle,postman,git,jenkins&perline=5" />
+  </a>
+</p>
 
 <h1>✨ Status</h1>
 
@@ -33,14 +49,10 @@
     <img src = "https://render.gitanimals.org/farms/{nomoreFt}" width="800" height="300"/>
 </a>
 
-<br>
-
 
 <h1>🛠 My Contributions </h1>
 
 - Spring Framework - PR #33625 - [Replace hardcoded "null" with NULL_STRING constant in ObjectUtils.nullSafeConciseToString](https://github.com/spring-projects/spring-framework/pull/33625)
-
-<br>
 
 
 
@@ -54,4 +66,5 @@
 [2023/07/14 - 인접 리스트](https://nomoreft.tistory.com/117) <br/>
 [2023/07/14 - 인접 행렬](https://nomoreft.tistory.com/116) <br/>
 [2023/07/14 - 플로이드 와샬 알고리즘](https://nomoreft.tistory.com/115) <br/>
+<br>
 ![footer](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=30&section=header&text=&fontSize=90) <br><br><br>
