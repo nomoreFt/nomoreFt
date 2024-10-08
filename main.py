@@ -63,6 +63,7 @@ markdown_text = """
 - Spring Framework - PR #33625 - [Replace hardcoded "null" with NULL_STRING constant in ObjectUtils.nullSafeConciseToString](https://github.com/spring-projects/spring-framework/pull/33625)
 
 <h1>🎇 Recent blog posts</h1>
+
 """
 
 # RSS 피드에서 최근 게시물 가져오기
@@ -76,7 +77,7 @@ else:
     markdown_text += "No recent blog posts found.<br/>\n"
 
 # footer 추가
-markdown_text += "![footer](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=30&section=header&text=&fontSize=90) <br><br><br>\n"
+markdown_text += "<br>![footer](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=30&section=header&text=&fontSize=90) <br><br><br>\n"
 
 # README.md 파일에 쓰기
 with open("README.md", mode="w", encoding="utf-8") as f:
