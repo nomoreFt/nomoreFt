@@ -34,8 +34,9 @@ jobs:
     
     - name: Update README.md file
       run: | 
-        git add README.md  # Only add README.md
         git config --local user.email "hyunwoo.kim1108@gmail.com"
         git config --local user.name "nomoreFt"
+        git pull origin main  # 최신 변경 사항 가져오기
+        git add README.md  # README.md만 추가
         git commit -m "Update README.md"
         git push
