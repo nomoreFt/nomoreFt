@@ -72,7 +72,7 @@ if 'entries' in RSS_FEED and RSS_FEED['entries']:
         if idx >= MAX_POST:
             break
         feed_date = feed['published_parsed']
-        markdown_text += f"[{time.strftime('%Y/%m/%d', feed_date)} - {feed['title']}]({feed['link']}) <br/>\n"
+        markdown_text += f"* [{time.strftime('%Y/%m/%d', feed_date)} - {feed['title']}]({feed['link']}) <br/>\n"
 else:
     markdown_text += "No recent blog posts found.<br/>\n"
 
