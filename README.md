@@ -50,7 +50,7 @@
     <img src = "https://render.gitanimals.org/farms/{nomoreFt}" width="800" height="300"/>
 </a>
 
-<h1>🛠 My Contributions </h1>
+<h1>:octocat: My Contributions </h1>
 
 - Spring Framework - PR #33625 - [Replace hardcoded "null" with NULL_STRING constant in ObjectUtils.nullSafeConciseToString](https://github.com/spring-projects/spring-framework/pull/33625)
 
