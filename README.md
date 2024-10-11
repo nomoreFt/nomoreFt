@@ -52,7 +52,8 @@
 
 <h1>:octocat: My Contributions </h1>
 
-- Spring Framework - PR #33625 - [Replace hardcoded "null" with NULL_STRING constant in ObjectUtils.nullSafeConciseToString](https://github.com/spring-projects/spring-framework/pull/33625)
+- Spring Framework - PR #33625 - [Replace hardcoded "null" with NULL_STRING constant in ObjectUtils.nullSafeConciseToString](https://github.com/spring-projects/spring-framework/pull/33625)<br>
+- Spring Security - PR #15875 - [Remove unnecessary parentheses and add static final field MockPortResolver#getServerPort](https://github.com/spring-projects/spring-security/pull/15875)
 
 <h1>🎇 Recent blog posts</h1>
 
