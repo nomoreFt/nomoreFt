@@ -1,6 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=nomoreFt%20&fontSize=90)
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=nomoreFt&fontSize=80&animation=fadeIn&fontAlignY=40&desc=Backend%20Developer%20|%20Habit-Driven%20Growth&descAlignY=55&descAlign=50)
 ### 👋 안녕하세요, 습관의 힘을 믿는 백엔드 개발자 김현우입니다.
 
 > 나는 몇 달이고 몇 년이고 생각하고 또 생각한다. 그러다 보면 아흔아홉 번은 틀리고, 백 번째가 되어서야 비로소 맞는 답을 얻어낸다 - **아인슈타인**
