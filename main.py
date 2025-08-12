@@ -7,7 +7,7 @@ MAX_POST = 7
 
 # README.md에 들어갈 마크다운 텍스트
 markdown_text = """
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=nomoreFt%20&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=nomoreFt&fontSize=80&animation=fadeIn&fontAlignY=40&desc=Backend%20Developer%20|%20Habit-Driven%20Growth&descAlignY=55&descAlign=50)
 
 ### 👋 안녕하세요, 습관의 힘을 믿는 백엔드 개발자 김현우입니다.
 
